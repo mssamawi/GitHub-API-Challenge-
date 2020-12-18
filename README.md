@@ -10,3 +10,8 @@ Branch Protection Rules
 - Require branches to be up to date before merging
 - Require signed commits
 - Require linear history
+
+Resources
+- https://docs.github.com/en/free-pro-team@latest/rest
+- https://cli.github.com/
+- https://docs.github.com/en/free-pro-team@latest/developers/webhooks-and-events/creating-webhooks
